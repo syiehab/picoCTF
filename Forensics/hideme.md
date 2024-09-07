@@ -33,5 +33,5 @@ It shows that theres another png image inside ```secret/``` directory. Open it u
 ![image](https://github.com/user-attachments/assets/4eb8953b-4cdb-4f12-b005-81493b9678a2)
 
 
-flag = picoCTF{Hiddinng_An_imag3_within_@n_ima9e_82101824}
+flag = ```picoCTF{Hiddinng_An_imag3_within_@n_ima9e_82101824}```
 
