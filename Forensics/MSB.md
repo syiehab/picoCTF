@@ -13,4 +13,4 @@ save as text and simply search for flag in the file.
 ![image](https://github.com/user-attachments/assets/8611ef85-8266-49bb-82ef-44bbe7e2a4ce)
 
 
-flag = ```picoCTF{15_y0ur_que57_ qu1x071c_0r_h3r01c_ea7deb4c}```
+flag = ```picoCTF{15_y0ur_que57_qu1x071c_0r_h3r01c_ea7deb4c}```
