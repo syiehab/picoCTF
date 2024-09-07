@@ -1,10 +1,10 @@
 # MSB
 
-##This image passes LSB statistical analysis, but we can't help but think there must be something to the visual artifacts present in this image...
+## This image passes LSB statistical analysis, but we can't help but think there must be something to the visual artifacts present in this image...
 
-Open image in '''stegsolve'''
+Open image in ''' stegsolve '''
 
-Click on '''Analyze''' then '''Data Extract'''
+Click on ''' Analyze ''' then ''' Data Extract '''
 
 ![image](https://github.com/user-attachments/assets/377bc538-ed3d-43a7-ab4f-a01d1dbb29f7)
 
