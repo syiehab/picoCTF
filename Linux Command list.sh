@@ -1,8 +1,0 @@
-grep -r 'pattern' . #to find text in all directory
-find . -name 'filename' #to find file with filename in all current directory
-
-exiftool -AllDates <dates> to change date
-hexeditor (Ctrl + W to find text)
-binwalk --dd='.*' <file>
-find -name *.txt
-
